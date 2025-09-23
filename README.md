@@ -6,6 +6,8 @@ This project demonstrates the creation of a comprehensive **HR dashboard in Tabl
 
 The project walks through the entire workflow, from initial project planning and data generation to final dashboard deployment. It emphasizes both the technical and design aspects of Tableau dashboards, ensuring that metrics are accurate, insights are clear, and the visual presentation is professional.
 
+![HR Dashboard Snapshot](https://raw.githubusercontent.com/HarshBehal-1401/HR-Dashboard-Project/main/Snapshot%20of%20Hr%20Dashboard.png)
+
 ## Key Highlights
 
 - **End-to-End Workflow:** Guides users through the complete process, including requirement analysis, data preparation, metric calculation, visualization creation, and final dashboard design.  
